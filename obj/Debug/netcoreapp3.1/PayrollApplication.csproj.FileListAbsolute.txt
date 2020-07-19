@@ -1,0 +1,13 @@
+C:\Users\burak.tahtalioglu\source\repos\PayrollApplication\bin\Debug\netcoreapp3.1\PayrollApplication.exe
+C:\Users\burak.tahtalioglu\source\repos\PayrollApplication\bin\Debug\netcoreapp3.1\PayrollApplication.deps.json
+C:\Users\burak.tahtalioglu\source\repos\PayrollApplication\bin\Debug\netcoreapp3.1\PayrollApplication.runtimeconfig.json
+C:\Users\burak.tahtalioglu\source\repos\PayrollApplication\bin\Debug\netcoreapp3.1\PayrollApplication.runtimeconfig.dev.json
+C:\Users\burak.tahtalioglu\source\repos\PayrollApplication\bin\Debug\netcoreapp3.1\PayrollApplication.dll
+C:\Users\burak.tahtalioglu\source\repos\PayrollApplication\bin\Debug\netcoreapp3.1\PayrollApplication.pdb
+C:\Users\burak.tahtalioglu\source\repos\PayrollApplication\obj\Debug\netcoreapp3.1\PayrollApplication.csprojAssemblyReference.cache
+C:\Users\burak.tahtalioglu\source\repos\PayrollApplication\obj\Debug\netcoreapp3.1\PayrollApplication.AssemblyInfoInputs.cache
+C:\Users\burak.tahtalioglu\source\repos\PayrollApplication\obj\Debug\netcoreapp3.1\PayrollApplication.AssemblyInfo.cs
+C:\Users\burak.tahtalioglu\source\repos\PayrollApplication\obj\Debug\netcoreapp3.1\PayrollApplication.csproj.CoreCompileInputs.cache
+C:\Users\burak.tahtalioglu\source\repos\PayrollApplication\obj\Debug\netcoreapp3.1\PayrollApplication.dll
+C:\Users\burak.tahtalioglu\source\repos\PayrollApplication\obj\Debug\netcoreapp3.1\PayrollApplication.pdb
+C:\Users\burak.tahtalioglu\source\repos\PayrollApplication\obj\Debug\netcoreapp3.1\PayrollApplication.genruntimeconfig.cache
